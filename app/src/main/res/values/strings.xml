@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Atherosclerosis Coronary Artery Disease Prediction</string>
+
+    <!-- Labels for input fields -->
+    <string name="label_sex">Sex:</string>
+    <string name="hint_sex">(1 for male, 0 for female)</string>
+
+    <string name="label_race">Race:</string>
+    <string name="hint_race">(1 for black, 0 for other)</string>
+
+    <string name="label_is_smoker">Is smoker?:</string>
+    <string name="hint_is_smoker">(1 if you are a smoker, 0 if not)</string>
+
+    <string name="label_is_diabetic">Is diabetic?:</string>
+    <string name="hint_is_diabetic">(1 if you are diabetic, 0 if not)</string>
+
+    <string name="label_is_hypertensive">Is hypertensive?:</string>
+    <string name="hint_is_hypertensive">(1 if you are hypertensive, 0 if not)</string>
+
+    <string name="label_age">Age:</string>
+    <string name="hint_age">Age must be between 20–79</string>
+
+    <string name="label_systolic_pressure">Systolic pressure (mm Hg):</string>
+    <string name="hint_systolic_pressure">Value must be between 90–200</string>
+
+    <string name="label_total_cholesterol">Total Cholesterol (mg/dL):</string>
+    <string name="hint_total_cholesterol">Value must be between 130–320</string>
+
+    <string name="label_hdl_cholesterol">HDL Cholesterol (mg/dL):</string>
+    <string name="hint_hdl_cholesterol">Value must be between 20–100</string>
+
+    <!-- Button label -->
+    <string name="button_predict">Predict</string>
+
+    <!-- Risk label -->
+    <string name="label_risk">Risk:</string>
+</resources>
+
